@@ -4,7 +4,7 @@
 
     ```bash
     git clone https://github.com/laoshuikaixue/Campus-Radio-Station-Audio-Processing-System.git
-    cd lx-music-api-server-python
+    cd Campus-Radio-Station-Audio-Processing-System
     ```
 
 2. 安装依赖
