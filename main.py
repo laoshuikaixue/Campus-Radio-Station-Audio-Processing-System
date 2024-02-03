@@ -608,7 +608,7 @@ markdown_content = f"""
 {' '.join(after_song)}  
 注：标准化为 -4dB 时间为：{after_music_time}
 
-https://blog.lao-shui.top/post/Campus-Radio-Station-Singles
+https://blog.lao-shui.top/post/2023_01_Campus-Radio-Station-Singles
 
 """
 
@@ -649,4 +649,4 @@ else:
     print(f"\n注：标准化为 -4dB 时间为:{after_music_time}\n")
 
     # 输出相关网站链接
-    print("https://blog.lao-shui.top/post/Campus-Radio-Station-Singles\n")
+    print("https://blog.lao-shui.top/post/2023_01_Campus-Radio-Station-Singles\n")
